@@ -23,7 +23,7 @@ This space may include:
 * Scripts and utilities
 * Reference architectures
 * Starter templates
-* Helpful experiments
+* Cribl packs and apps
 
 Some projects may be polished and ready to use. Others may be early ideas, prototypes, or examples meant to help you get started.
 
