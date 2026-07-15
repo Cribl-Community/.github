@@ -75,4 +75,4 @@ Each repository should include its own license. Check the license in the specifi
 
 Open an issue in the relevant repo, or start a discussion if discussions are enabled.
 
-If the idea does not fit an existing repo, open an issue in this welcome repo and tell us what you want to build or share.
+If the idea does not fit an existing repo, open an issue in the welcome repo and tell us what you want to build or share.
