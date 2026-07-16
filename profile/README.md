@@ -1,4 +1,4 @@
-# Welcome to Cribl Community
+# Welcome to the Cribl Community repository
 
 Useful examples, tools, labs, and resources built by and for the Cribl Community.
 
